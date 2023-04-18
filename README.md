@@ -27,7 +27,7 @@ React의 props , Route , useState  등의 기능을 활용하여 TO Do List 만�
 #### * [조혜진 제출](https://github.com/wa-reureu-studyroom/react-basic01/tree/main/todolist_Cho_Hyejin)
 
 ```
-간단하게 무엇을 중점으로 구현했는지 작성해주세요.
+React 기본 기능을 활용하여 todolist 구현하기 
 ```
 
 ## 2주차 ( 4/1 ~ 4/7 )
@@ -43,5 +43,5 @@ React에서 axios 혹은 fetch를 사용하여 weather open api를 불러오기
 #### * [조혜진 제출](https://github.com/wa-reureu-studyroom/react-basic01/tree/main/todolist_Cho_Hyejin)
 
 ```
-간단하게 무엇을 중점으로 구현했는지 작성해주세요.
+weather open api 를 활용하여 도시 선택 시 해당 도시의 실시간 온도 정보 및 아이콘 정보 구현 
 ```
