@@ -1,0 +1,31 @@
+.navbar{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    align-items: center;
+    background-color: #ffd9de;
+    box-shadow: 0 5px 6px -6px rgba(0, 0, 0, 0.41);
+}
+
+
+.navbar__logo{
+    width: 70%;
+    margin-left: 20px;
+    font-size:1.5rem;
+    font-weight: bold;
+}
+
+.navbar__menu{
+    width: 30%;
+    display: flex;
+    justify-content:space-around;
+}
+
+.navbar__menu_link{
+    text-decoration: none;
+    color: black;
+}
+
+.navbar__user{
+    margin-right: 20px;
+}

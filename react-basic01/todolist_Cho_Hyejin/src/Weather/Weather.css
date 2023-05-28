@@ -1,0 +1,18 @@
+.wth__container{
+    /* padding-top: 10%;
+    padding-left:30%;
+    padding-right: 30%; */
+    display:grid;
+    place-items:center;
+    min-height: 100vh;
+}
+
+.wth__wrapper{
+    border:1px dotted darkblue;
+    padding: 30px 20px;
+    text-align:center;
+}
+
+.wth__wrapper > h2{
+    font-size: 2rem;
+}
